@@ -1,5 +1,6 @@
 # SQL 50 tasks
 В данном репозитории разобраны 50 задач SQL разной сложности (easy, medium, hard). Запросы написаны на разных СУБД: sqlite3, MySql, Postgresql.  
+Были использованы технологии: **DDL**, **DML**, **Тransact-SQL**, **CTE**, **window functions**, **joins**
 ____
 Задачи были взяты из разных источников:  
 * Stepik SQL тренажер (https://stepik.org/course/63054/syllabus) - 9 задач (БД - sqlite3)
